@@ -3,6 +3,7 @@
 var msg = 'This is a node.js program.'
 
 console.log('Hello, World!');
+console.log('Today is Wednesday');
 console.log('Programming is fun!');
 
 console.log(msg);
